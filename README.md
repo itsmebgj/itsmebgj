@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, This is Geunjae Bae, a developer who loves java</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsmebgj&label=Profile%20views&color=0e75b6&style=flat" alt="itsmebgj" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsmebgj" alt="itsmebgj" /></a> </p>
-
 - 📫 How to reach me **bgj3088@naver.com**
 
 <h3 align="left">Connect with me:</h3>
