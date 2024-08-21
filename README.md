@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, This is Geunjae Bae, a developer who loves java</h1>
+<h1 align="center">A Developer Who Loves Java</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsmebgj&label=Profile%20views&color=0e75b6&style=flat" alt="itsmebgj" /> </p>
 
 - 📫 How to reach me **bgj3088@naver.com**
