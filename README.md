@@ -18,4 +18,4 @@
 
 <h3 align="left">BAEKJOON</h3>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=example)](https://solved.ac/bgj3088/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bgj3088)](https://solved.ac/bgj3088/)
