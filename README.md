@@ -29,6 +29,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsmebgj&show_icons=true&locale=en&layout=compact" alt="itsmebgj" />
 </p>
 
+![itsmebgj's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsmebgj&show_icons=true&bg_color=00000000)
+
 <br clear="left">
 
 <h3 align="left">BAEKJOON</h3>
